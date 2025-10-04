@@ -40,7 +40,7 @@ The goal is to demonstrate how raw data can be turned into **actionable business
 - Total Profit by categories  
 - Payment-method wise revenue 
 
-*<img width="1261" height="726" alt="image" src="https://github.com/user-attachments/assets/1af27850-757e-4231-84a4-bd8b7adcb16a" />
-*  
+<img width="1261" height="726" alt="image" src="https://github.com/user-attachments/assets/1af27850-757e-4231-84a4-bd8b7adcb16a" />
+ 
 
 ---
