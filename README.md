@@ -28,7 +28,8 @@ The goal is to demonstrate how raw data can be turned into **actionable business
 - Exporting clean datasets for SQL & Power BI  
 
 ✅ **Interactive Dashboards in Power BI**  
-- Payment method preferences  
+- Payment method preferences
+- Shifts(Morning,Afternoon,Evening) based sales
 - Profitability analysis  
 - Year wise revenue analysis  
 
@@ -38,9 +39,10 @@ The goal is to demonstrate how raw data can be turned into **actionable business
 ⚡ Interactive Power BI dashboards to visualize:  
 - Sales growth by years 
 - Total Profit by categories  
-- Payment-method wise revenue 
+- Payment-method wise revenue
+- Shift wise Sales
 
-<img width="1261" height="726" alt="image" src="https://github.com/user-attachments/assets/1af27850-757e-4231-84a4-bd8b7adcb16a" />
+<img width="1262" height="735" alt="image" src="https://github.com/user-attachments/assets/c00c311d-ffd1-4b1b-8dcd-6c8d1dd540a0" />
  
 
 ---
